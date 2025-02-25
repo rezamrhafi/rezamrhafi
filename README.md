@@ -12,7 +12,6 @@ I’m **Reza Muhammad Rhafi**, a passionate **Data Scientist & Data Analyst** wi
 ## 📫 Connect with Me  
 🔗 **LinkedIn:** [linkedin.com/in/reza-mrhafi](https://www.linkedin.com/in/reza-mrhafi/)  
 📧 **Email:** rezamrhafi@gmail.com  
-💻 **GitHub/Portfolio:** [github.com/rezamrhafi](https://github.com/rezamrhafi)  
 
 ## 🛠 Skills  
 ### **Programming Languages:**  
